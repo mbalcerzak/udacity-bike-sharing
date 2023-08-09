@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#data
+data/
+
+#venv 
+venv/
+
+.DS_Store
+
 # C extensions
 *.so
 
